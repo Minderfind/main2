@@ -99,13 +99,6 @@ body {
     font-family: 'Pacifico', cursive;
     color: #228ec4;
 }
-.section__sub__title {
-    width: 100%;
-    font-size: 1.3rem;
-    font-weight: 100;
-    font-family: 'Pacifico', cursive;
-    color: #228ec4;
-}
 .section__container {
     display: flex;
     flex-direction: column;
