@@ -79,7 +79,6 @@ body {
 .banner__img {
     width: 100%;
     max-height: 100%;
-    grid-row: 1;
 }
 
 .section {
@@ -89,7 +88,6 @@ body {
     align-items: center;
     gap: 2rem;
     width: 94%;
-    grid-row: 2;
     padding: 0 3% 3% 3%;
     margin: 2rem 0 0 0;
     height: auto;
@@ -175,6 +173,8 @@ body {
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
 }
 .footer__nav a {
     font-size: .9rem;
